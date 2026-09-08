@@ -13,7 +13,7 @@ title                    : "Rachael M. Griffiths"
 title_separator          : "-"
 name                     : &name "Rachael M. Griffiths"
 description              : &description "Postdoctoral Researcher, EPHE-PSL"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://griffiths1.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://rgriffiths1.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rgriffiths1/rgriffiths1.github.io"
@@ -23,13 +23,11 @@ repository               : "rgriffiths1/rgriffiths1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "GriffithsRM.jpg"
   name             : "Rachael M. Griffiths"
-  pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher on the PaganTibet Project, working on Tibetan history and ritual manuscripts, and Digital Humanities (ATR, data/text processing, NLP)."
-  location         : "Paris, France"
+  pronouns         : "she/her"  
+  bio              : "Postdoctoral researcher"
   employer         : "EPHE-PSL / CRCAO / University of Cambridge (MMLL)"
-  uri              : # URL
   email            : "rachaelgriffiths1@gmail.com" 
 
   # Academic websites
