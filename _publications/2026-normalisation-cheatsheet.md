@@ -1,7 +1,7 @@
 ---
 title: "Normalisation Cheatsheet"
 collection: publications
-category: other publications and datasets
+category: datasets and other
 permalink: /publication/2026-normalisation-cheatsheet
 date: 2026-03-12
 authors: Marieke Meelen and Rachael. M. Griffiths

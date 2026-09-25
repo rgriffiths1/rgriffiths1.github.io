@@ -1,7 +1,7 @@
 ---
 title: "HTR Input & Correction Manual"
 collection: publications
-category: other publications and datasets
+category: datasets and other
 permalink: /publication/2025-HTR-manual
 date: 2025-10-03
 authors: Marieke Meelen and Rachael. M. Griffiths

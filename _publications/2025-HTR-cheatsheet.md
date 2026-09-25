@@ -1,7 +1,7 @@
 ---
 title: "HTR Input & Correction Cheat Sheet: 10 Basic Rules and Protocols for Diplomatic Transcription"
 collection: publications
-category: other publications and datasets
+category: datasets and other
 permalink: /publication/2025-HTR-cheatsheet
 date: 2025-10-02
 authors: Rachael. M. Griffiths and Marieke Meelen

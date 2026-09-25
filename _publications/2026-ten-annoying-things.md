@@ -1,7 +1,7 @@
 ---
 title: "Ten annoying things about digitizing under-resourced and under-represented languages (And what might help fixing them)"
 collection: publications
-category: other publications and datasets
+category: datasets and other
 permalink: /publication/2026-ten-annoying-things
 date: 2026-01-13
 authors: Olaf Berg et al.

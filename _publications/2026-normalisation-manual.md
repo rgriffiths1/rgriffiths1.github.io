@@ -1,7 +1,7 @@
 ---
 title: "Normalisation Manual"
 collection: publications
-category: other publications and datasets
+category: datasets and other
 permalink: /publication/2026-normalisation-manual
 date: 2026-03-12
 authors: Rachael. M. Griffiths and Marieke Meelen

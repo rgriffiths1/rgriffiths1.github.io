@@ -1,7 +1,7 @@
 ---
 title: "Ground Truth for PaganTibet Layout Recognition"
 collection: publications
-category: other publications and datasets
+category: datasets and other
 permalink: /publication/2026-ground-truth
 date: 2026-03-24
 authors: Rachael. M. Griffiths

@@ -1,7 +1,7 @@
 ---
 title: "Ground Truth for PaganTibet Ume models 1 & 2"
 collection: publications
-category: other publications and datasets
+category: datasets and other
 permalink: /publication/2025-HTR-groundtruth
 date: 2025-10-06
 authors: Rachael. M. Griffiths et al.

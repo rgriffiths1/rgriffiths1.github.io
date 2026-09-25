@@ -1,7 +1,7 @@
 ---
 title: "A multi-stage approach to information extraction and text classification in large untranscribed manuscript collections"
 collection: publications
-category: other publications and datasets
+category: datasets and other
 permalink: /publication/2025-cam-poster
 date: 2025-12-01
 authors: Rachael. M. Griffiths and Marieke Meelen

@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Tibet’s Oldest Religion through AI-enhanced Handwritten Text Recognition"
 collection: publications
-category: other publications and datasets
+category: datasets and other
 permalink: /publication/2024-cam-poster
 date: 2024-11-14
 authors: Rachael. M. Griffiths and Marieke Meelen
