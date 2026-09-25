@@ -5,9 +5,8 @@ category: manuscripts
 permalink: /publication/2021-11-25-glimpses-oral-history-tibetan-studies
 date: 2021-11-25
 venue: 'Buddhist Studies Review'
-paperurl: 'https://journal.equinoxpub.com/BSR/article/view/21197'
+link: 'https://journal.equinoxpub.com/BSR/article/view/21197'
 citation: 'Ford, R, Griffiths, R.M., Sehnalova, A, and Wojahn, D. (2021). &quot;Glimpses of the Oral History of Tibetan Studies&quot;. <i>Buddhist Studies Review</i> 38(2), 253-264'
 ---
-<a href='https://journal.equinoxpub.com/BSR/article/view/21197'>Download paper here</a>
 
 Recommended citation: Ford, R, Griffiths, R.M., Sehnalova, A, and Wojahn, D. (2021). "Glimpses of the Oral History of Tibetan Studies". <i>Buddhist Studies Review</i> 38(2), 253-264

@@ -5,9 +5,8 @@ category: manuscripts
 permalink: /publication/2024-07-01-htr-tibetan-manuscripts-cursive-script
 date: 2024-07-01
 venue: 'Revue d’Etudes Tibétaines (RET)'
-paperurl: 'https://archivenepal.s3.amazonaws.com/digitalhimalaya/collections/journals/ret/pdf/ret_72_03.pdf'
+link: 'https://archivenepal.s3.amazonaws.com/digitalhimalaya/collections/journals/ret/pdf/ret_72_03.pdf'
 citation: 'Griffiths, R.M. (2024). &quot;Handwritten Text Recognition (HTR) for Tibetan Manuscripts in Cursive Script.&quot; <i>Revue d’Etudes Tibétaines</i> 72, 43-51'
 ---
-<a href='https://archivenepal.s3.amazonaws.com/digitalhimalaya/collections/journals/ret/pdf/ret_72_03.pdf'>Download paper here</a>
 
 Recommended citation: Griffiths, R.M. (2024). "Handwritten Text Recognition (HTR) for Tibetan Manuscripts in Cursive Script." <i>Revue d’Etudes Tibétaines</i> 72, 43-51
