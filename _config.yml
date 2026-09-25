@@ -23,10 +23,10 @@ repository               : "rgriffiths1/rgriffiths1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "GriffithsRM.jpg"
+  avatar           : "RMGsquare.jpg"
   name             : "Rachael M. Griffiths"
   pronouns         : "she/her"  
-  bio              : "Postdoctoral researcher"
+  bio              : ""
   employer         : "EPHE-PSL / CRCAO / University of Cambridge (MMLL)"
   email            : "rachaelgriffiths1@gmail.com" 
 
@@ -64,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "rachael-m-griffiths"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -85,9 +85,10 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Journal Articles and Chapters'    
+  datasets and other:
+    title: 'Other Publications and Datasets'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

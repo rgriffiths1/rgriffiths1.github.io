@@ -1,19 +1,20 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-### Researcher working on Digital Humanities methods for historical Tibetan manuscripts, with an interest in Tibetan auto/biographical and ritual texts. ###
+{% comment %} ### Researcher working on Digital Humanities methods for historical Tibetan manuscripts, with an interest in Tibetan auto/biographical and ritual texts. ###
 
 <br>
+{% endcomment %}
 
-I am currently a postdoctoral researcher on the [PaganTibet Project](https://www.pagantibet.com/), based at the EPHE-PSL in Paris. I am also affiliated with CRCAO and am an affiliated researcher at the MMLL, University of Cambridge.
+I'm **Dr Rachael M. Griffiths**, a Postdoctoral Researcher at [EPHE](https://www.ephe.psl.eu/) (École Pratique des Hautes Études). I work on the [PaganTibet project](https://www.pagantibet.com/), where my role focuses on the digitisation of a large collection of Tibetan manuscripts, and the mining and analysis of these texts through handwritten text recognition (HTR) and natural language processing (NLP).
 
-I hold a DPhil in Oriental Studies from the University of Oxford (2020). My doctoral research focused on the autobiographical writings of Sumpa Khenpo Yeshe Paljor (1704-1788), exploring his public identity against a backdrop of intense political change, and how these shifts impacted the intricate social, intellectual, and political networks in which he operated. Following my graduate studies, I worked as a postdoctoral researcher in the [TibSchol](https://www.oeaw.ac.at/projects/tibschol) project at the Austrian Academy of Sciences, where I contributed to the development and application of digital resources. I also investigated the extent of Tibetan scholastic writings during the 11th-13th centuries and the intellectual networks of the time.
+I'm an Affiliated Researcher at [Cambridge Language Sciences](https://www.languagesciences.cam.ac.uk/) and a member of the Tibet, Bhutan and Tibetan Cultural Regions team (TBACT) laboratory of the [CRCAO](https://www.crcao.fr/) (Centre de recherche sur les civilisations de l'Asie orientale). I am also Editor-in-Chief of [The Digital Orientalist](https://digitalorientalist.com/), which publishes on digital humanities work and developments in African, Asian, and Middle Eastern studies.
 
-On the PaganTibet project, I develop and apply Digital Humanities methods to Old Tibetan manuscripts, including automatic text recognition (ATR), data and text processing, and natural language processing (NLP).
-
-Additional information about my work can be found in the [publications](/publications/) and [talks](/talks/) sections. For inquiries or potential collaborations, feel free to get in touch.
+My broader research interests include Tibetan auto/biographical literature, social and intellectual networks, pilgrimage, understandings of and engagement with space, and language inclusivity in digital humanities.
+ 
+Additional information about my work can be found in the [publications](/publications/) and [presentations](/presentations/) sections. For inquiries or potential collaborations, feel free to get in touch.
